@@ -9,5 +9,5 @@
   "streamKitVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-youtube/main/manifest.json",
   "downloadUrl": "https://github.com/stream-kit-app/plugin-youtube/releases/download/v0.1.1-alpha.2/plugin-youtube.zip",
-  "sha256": "e599b441ec76416f024dfbefd85b0b0bbe5a199862d2f3a1c2c0630656f957eb"
+  "sha256": "ab3dbb2bc41816b1d14a1a9cdabd771d0dcbf1b60d4e808c83d04dc8495965c2"
 }
