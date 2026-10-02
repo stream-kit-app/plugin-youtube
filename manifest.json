@@ -5,11 +5,9 @@
   "description": "YouTube live chat, memberships, moderation, and stream status.",
   "icon": "ri:youtube-fill",
   "entry": "dist/index.js",
-  "dependencies": [
-    "core"
-  ],
+  "dependencies": [],
   "streamKitVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-youtube/main/manifest.json",
   "downloadUrl": "https://github.com/stream-kit-app/plugin-youtube/releases/download/v0.1.1-alpha.2/plugin-youtube.zip",
-  "sha256": "9ef6865efb6ee2efe78f62f3c6365fdba5032aa6d0822cc084352e3e744edc21"
+  "sha256": "201f914f9240a0d5cb5d9756ceaee318fb39b6ca9abd49a48247d7e4a38d2535"
 }
