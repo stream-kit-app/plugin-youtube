@@ -1,13 +1,13 @@
 {
   "key": "youtube",
   "name": "YouTube",
-  "version": "0.2.0-alpha.6",
+  "version": "0.2.0-alpha.7",
   "description": "YouTube live chat, memberships, moderation, and stream status.",
   "icon": "ri:youtube-fill",
   "entry": "dist/index.js",
   "dependencies": [],
   "streamKitVersion": ">=0.1.0",
   "updateManifestUrl": "https://raw.githubusercontent.com/stream-kit-app/plugin-youtube/main/manifest.json",
-  "downloadUrl": "https://github.com/stream-kit-app/plugin-youtube/releases/download/v0.2.0-alpha.6/plugin-youtube.zip",
-  "sha256": "23697513ea92148154f7f31326356a6a63a7abda7541d839942004338d439987"
+  "downloadUrl": "https://github.com/stream-kit-app/plugin-youtube/releases/download/v0.2.0-alpha.7/plugin-youtube.zip",
+  "sha256": "11f0b7048983152e971398f99ef34e95ba524c58e53f33954b9c9b43a2308df6"
 }
